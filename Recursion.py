@@ -6,4 +6,5 @@ def check(word):
 
 # test 
 check("apple")
-print("hey")
+
+print("hello")
